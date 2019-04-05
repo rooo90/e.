@@ -1,4 +1,4 @@
-token= NTYzNzY1OTIxMzA3Njg4OTgw.XKeF9Q.lYQt3FPqDH3bbkl-bSypAwgrE1cNTYzNzU3MjU0NjI5Nzg1NjAx.XKd95g.TTf6vTaZYzB02LX8FiOnSKBr_fY
+token= NTYzNzY1OTIxMzA3Njg4OTgw.XKeF9Q.lYQt3FPqDH3bbkl-bSypAwgrE1c
 owner= 526947416658935810 
 prefix= e
 game= ehelp | War
